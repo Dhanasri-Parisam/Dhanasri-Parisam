@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://pin.it/4GIOGHdrC" />
+  <img src="https://www.elevano.com/wp-content/uploads/2019/03/full-stack-development-by-weblineindia.jpg" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Dhanu</h1>
@@ -10,7 +10,7 @@ Full Stack Developer • AI Enthusiast • Problem Solver
 </h3>
 
 <p align="center">
-<img src="https://pin.it/1DWpMueve" />
+<img src="https://eiposgrados.com/wp-content/uploads/2022/08/programador-fullstack.jpg" />
 </p>
 
 <table>
