@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hii I'm Dhanu :
 🔭 I'm currently working on **AI-powered Full Stack applications and innovative startup projects.**<br><br>🤝 I'm looking to collaborate on **Open Source, AI, and Web Development projects.**<br><br>💡 I'm looking for opportunities to **learn, contribute, and build impactful products.**<br><br>🌱 I'm currently learning **System Design, Cloud Computing, AI, and DevOps.**<br><br>💬 Ask me about **C++, DSA, React, Next.js, Node.js, MongoDB, and JavaScript.**<br><br>🎯 My goal is to **become a Software Development Engineer and build products that make a difference.**<br><br>⚡ Fun fact: **I enjoy turning ideas into real-world applications through code.**
 
 
