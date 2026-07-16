@@ -9,10 +9,8 @@ Full Stack Developer • AI Enthusiast • Problem Solver
   
 </p>
 
-<h1 align="center">Hi 👋, I'm Dhanu</h1>
-
 <h3 align="center">
-Full Stack Developer • AI Enthusiast • Problem Solver
+👋 Welcome to my GitHub! I'm a Full Stack Developer and AI enthusiast building impactful projects.
 </h3>
 
 <p align="center">
