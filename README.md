@@ -1,3 +1,36 @@
+<!-- Banner -->
+<p align="center">
+  <!-- Banner -->
+<p align="center">
+  <img src="https://pin.it/OLYRXrMLx" alt="Banner" width="100%"/>
+</p>
+
+<p align="center">
+<img src="https://pin.it/OLYRXrMLx" />
+</p>
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+</p>
+
+<h1 align="center">
+ Hi 👋, I'm <b>Dhanu</b>
+</h1>
+
+<h3 align="center">
+Full Stack Developer • AI Enthusiast • Problem Solver • Startup Builder
+</h3>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Dhanasri-Parisam&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
 # Hii I'm Dhanu :
 🔭 I'm currently working on **AI-powered Full Stack applications and innovative startup projects.**<br><br>🤝 I'm looking to collaborate on **Open Source, AI, and Web Development projects.**<br><br>💡 I'm looking for opportunities to **learn, contribute, and build impactful products.**<br><br>🌱 I'm currently learning **System Design, Cloud Computing, AI, and DevOps.**<br><br>💬 Ask me about **C++, DSA, React, Next.js, Node.js, MongoDB, and JavaScript.**<br><br>🎯 My goal is to **become a Software Development Engineer and build products that make a difference.**<br><br>⚡ Fun fact: **I enjoy turning ideas into real-world applications through code.**
 
