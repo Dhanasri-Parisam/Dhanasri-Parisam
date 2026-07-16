@@ -1,4 +1,9 @@
 <!-- Banner -->
+<h1 align="center">Hi 👋, I'm Dhanu</h1>
+
+<h3 align="center">
+Full Stack Developer • AI Enthusiast • Problem Solver
+</h3>
 <p align="center">
   <img src="https://www.elevano.com/wp-content/uploads/2019/03/full-stack-development-by-weblineindia.jpg" width="800" alt="Full Stack Development"/>
   
