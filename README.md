@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.elevano.com/wp-content/uploads/2019/03/full-stack-development-by-weblineindia.jpg" width="300" alt="Full Stack Development"/>
+  <img src="https://www.elevano.com/wp-content/uploads/2019/03/full-stack-development-by-weblineindia.jpg" width="800" alt="Full Stack Development"/>
   
 </p>
 
@@ -11,7 +11,7 @@ Full Stack Developer • AI Enthusiast • Problem Solver
 </h3>
 
 <p align="center">
-<img src="https://eiposgrados.com/wp-content/uploads/2022/08/programador-fullstack.jpg" width="300" alt="Full Stack Development"/>
+<img src="https://eiposgrados.com/wp-content/uploads/2022/08/programador-fullstack.jpg" width="800" alt="Full Stack Development"/>
 </p>
 
 <table>
